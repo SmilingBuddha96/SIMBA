@@ -1,0 +1,1001 @@
+Config A   ---------------------------------------------
+		Pattern for "X on first step" option or "X on all steps" option
+		Binary count pattern 1
+		Binary count pattern 1
+Config B   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config C   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config D   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config E   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config F   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config G   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config H   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+Config I   ---------------------------------------------
+
+Allow up to 151 Wagner IDs, plus IDs for 0 inverter output nodes
+
+>>> DIFF PAIR: 1     	510   	U235_B6, U235_A6
+>>> DIFF PAIR: 2     	509   	U235_B10, U235_A10
+>>> DIFF PAIR: 3     	508   	U235_AN14, U235_AP14
+>>> DIFF PAIR: 4     	507   	U235_AN18, U235_AP18
+>>> DIFF PAIR: 5     	506   	U235_AN19, U235_AP19
+>>> DIFF PAIR: 6     	505   	U235_AN20, U235_AP20
+>>> DIFF PAIR: 7     	504   	U235_AN21, U235_AP21
+>>> DIFF PAIR: 8     	503   	U235_AN10, U235_AP10
+>>> DIFF PAIR: 9     	502   	U235_J2, U235_J1
+
+
+data_len is 932 <<<
+
+Most drivers (8) on $17N7 <<<
+
+		Wagner background all 0's pattern
+		Wagner background all 1's pattern
+		Wagner true pattern 1
+		Wagner true pattern 2
+		Wagner true pattern 3
+		Wagner true pattern 4
+		Wagner true pattern 5
+		Wagner true pattern 6
+		Wagner true pattern 7
+		Wagner true pattern 8
+		Wagner complement pattern 1
+		Wagner complement pattern 2
+		Wagner complement pattern 3
+		Wagner complement pattern 4
+		Wagner complement pattern 5
+		Wagner complement pattern 6
+		Wagner complement pattern 7
+		Wagner complement pattern 8
+
+		Each node has a unique pattern
+$12N2038            	0     	
+$17N15              	10    	0 1 01010000 10101111
+$17N7               	11    	0 1 11010000 00101111
+$18N17              	12    	0 1 00110000 11001111
+$18N19              	13    	0 1 10110000 01001111
+$18N21              	14    	0 1 01110000 10001111
+$18N23              	15    	0 1 11110000 00001111
+$18N27              	16    	0 1 00001000 11110111
+$18N44              	17    	0 1 10001000 01110111
+$18N46              	18    	0 1 01001000 10110111
+$18N6               	19    	0 1 11001000 00110111
+$18N8               	20    	0 1 00101000 11010111
+$19N120             	0     	
+$19N123             	0     	
+$22N2879            	21    	0 1 10101000 01010111
+$22N2894            	22    	0 1 01101000 10010111
+$22N2895            	23    	0 1 11101000 00010111
+$22N2896            	24    	0 1 00011000 11100111
+$22N2897            	25    	0 1 10011000 01100111
+$22N2989            	26    	0 1 01011000 10100111
+$30N266             	0     	
+$30N268             	0     	
+$30N270             	0     	
+$37N627             	0     	
+$38N316             	0     	
+$56N1436            	0     	
+$56N1442            	0     	
+$56N1443            	0     	
+$56N1449            	0     	
+$56N1465            	0     	
+$56N1669            	0     	
+$62N640             	0     	
+$67N455             	0     	
+$74N13              	0     	
+$75N13              	0     	
+1GPHY_INT_L         	0     	
+BENCH_MODE_L        	0     	
+BP_CON_RXD          	0     	
+BP_CON_TXD          	0     	
+BP_DBG_MODE_L       	0     	
+BP_EEP_PWR_EN_L     	0     	
+CCC_CLK_OK          	0     	
+CCC_CS_L            	0     	
+CCC_DONE            	0     	
+CCC_FPGA_OK         	0     	
+CCC_HSWAPEN         	0     	
+CCC_INIT_B          	0     	
+CCC_M0              	0     	
+CCC_M1              	0     	
+CCC_MISO0           	0     	
+CCC_MISO1           	0     	
+CCC_MISO2           	0     	
+CCC_MISO3           	0     	
+CCC_PWR_CYCLE       	0     	
+CCC_SPI_WE          	0     	
+CCC_UP_OK           	0     	
+CERT_EEPOM_WP       	0     	
+CLK25_BUF1          	0     	
+CLK_33M_EBUS_ZDB    	0     	
+CON0_CTS_L          	0     	
+CON0_DSR_L          	0     	
+CON0_DTR_L          	0     	
+CON0_RTS_L          	0     	
+CON0_RXD            	0     	
+CON0_TXD            	0     	
+CON1_CTS_L          	0     	
+CON1_DSR_L          	0     	
+CON1_DTR_L          	0     	
+CON1_RTS_L          	0     	
+CON1_RXD            	0     	
+CON1_TXD            	0     	
+CON2_CTS_L          	0     	
+CON2_DSR_L          	0     	
+CON2_DTR_L          	0     	
+CON2_RTS_L          	0     	
+CON2_RXD            	0     	
+CON2_TXD            	0     	
+CR_ALRT_L           	0     	
+CR_PRES_L           	0     	
+CR_RST              	0     	
+EBUS_DATA0          	0     	
+EBUS_DATA10         	0     	
+EBUS_DATA11         	0     	
+EBUS_DATA12         	0     	
+EBUS_DATA13         	0     	
+EBUS_DATA14         	0     	
+EBUS_DATA15         	0     	
+EBUS_DATA1          	0     	
+EBUS_DATA2          	0     	
+EBUS_DATA3          	0     	
+EBUS_DATA4          	0     	
+EBUS_DATA5          	0     	
+EBUS_DATA6          	0     	
+EBUS_DATA7          	0     	
+EBUS_DATA8          	0     	
+EBUS_DATA9          	0     	
+EBUS_ERR_L          	0     	
+EBUS_HALT_INT_L     	0     	
+EBUS_PAR0           	0     	
+EBUS_PAR1           	0     	
+EBUS_SRDY_L         	0     	
+EBUS_VALID_L        	0     	
+EEP_ALRT_L          	0     	
+EEP_PRES_L          	0     	
+EEP_PWR_FLG_L       	0     	
+EEP_RST             	0     	
+EXPPHY_2WEN         	0     	
+EXPPHY_INTR_L       	21    	0 1 10101000 01010111
+EXPPHY_MDC          	27    	0 1 11011000 00100111
+EXPPHY_MDIO         	28    	0 1 00111000 11000111
+EXPPHY_NVMA1SEL     	0     	
+EXPPHY_NVMPROT      	0     	
+EXPPHY_PRTAD1       	0     	
+EXPPHY_PRTAD2       	0     	
+EXPPHY_PRTAD3       	0     	
+EXPPHY_PRTAD4       	0     	
+EXPPHY_RST_L        	0     	
+EXPPHY_SPI_CLK      	29    	0 1 10111000 01000111
+EXPPHY_SPI_CS_L     	30    	0 1 01111000 10000111
+EXPPHY_SPI_SI       	31    	0 1 11111000 00000111
+EXPPHY_SPI_SO       	32    	0 1 00000100 11111011
+EXPPHY_TXONOFF_1    	33    	0 1 10000100 01111011
+EXPPHY_TXONOFF_2    	34    	0 1 01000100 10111011
+EXP_ETH0_ACT        	35    	0 1 11000100 00111011
+EXP_ETH0_LED        	0     	
+EXP_ETH0_LED_DET    	0     	
+EXP_ETH0_MOD_ABS    	0     	
+EXP_ETH0_RSEL0      	0     	
+EXP_ETH0_RSEL1      	0     	
+EXP_ETH0_RX_LOS     	0     	
+EXP_ETH0_SCL        	0     	
+EXP_ETH0_SDA        	0     	
+EXP_ETH0_TX_DISABLE 	0     	
+EXP_ETH0_TX_FLT     	0     	
+EXP_ETH1_ACT        	36    	0 1 00100100 11011011
+EXP_ETH1_LED        	0     	
+EXP_ETH1_LED_DET    	0     	
+EXP_ETH1_MOD_ABS    	0     	
+EXP_ETH1_RSEL0      	0     	
+EXP_ETH1_RSEL1      	0     	
+EXP_ETH1_RX_LOS     	0     	
+EXP_ETH1_SCL        	0     	
+EXP_ETH1_SDA        	0     	
+EXP_ETH1_TX_DISABLE 	0     	
+EXP_ETH1_TX_FLT     	0     	
+FAN0_ALRT_L         	0     	
+FAN0_PRES_L         	0     	
+FAN0_RST            	0     	
+FAN1_ALRT_L         	0     	
+FAN1_PRES_L         	0     	
+FAN1_RST            	0     	
+FC0_ALRT_L          	0     	
+FC0_PRES_L          	0     	
+FC0_RST             	0     	
+FC10_ALRT_L         	0     	
+FC10_PRES_L         	0     	
+FC10_RST            	0     	
+FC11_ALRT_L         	0     	
+FC11_PRES_L         	0     	
+FC11_RST            	0     	
+FC1_ALRT_L          	0     	
+FC1_PRES_L          	0     	
+FC1_RST             	0     	
+FC2_ALRT_L          	0     	
+FC2_PRES_L          	0     	
+FC2_RST             	0     	
+FC3_ALRT_L          	0     	
+FC3_PRES_L          	0     	
+FC3_RST             	0     	
+FC4_ALRT_L          	0     	
+FC4_PRES_L          	0     	
+FC4_RST             	0     	
+FC5_ALRT_L          	0     	
+FC5_PRES_L          	0     	
+FC5_RST             	0     	
+FC6_ALRT_L          	0     	
+FC6_PRES_L          	0     	
+FC6_RST             	0     	
+FC7_ALRT_L          	0     	
+FC7_PRES_L          	0     	
+FC7_RST             	0     	
+FC8_ALRT_L          	0     	
+FC8_PRES_L          	0     	
+FC8_RST             	0     	
+FC9_ALRT_L          	0     	
+FC9_PRES_L          	0     	
+FC9_RST             	0     	
+FPGA_SPARE1         	0     	
+FPGA_SPARE2         	0     	
+FPGA_SPARE3         	0     	
+FPGA_SPARE4         	0     	
+FPGA_SPARE5         	0     	
+FPGA_SPARE6         	0     	
+FPGA_SPARE7         	0     	
+FPGA_SPARE8         	0     	
+GATER_PWR_GOOD      	0     	
+GESW_CPU0_MDC       	0     	
+GESW_CPU0_MDIO      	37    	0 1 10100100 01011011
+GESW_CPU1_MDC       	0     	
+GESW_CPU1_MDIO      	38    	0 1 01100100 10011011
+GESW_CPU2_MDC       	0     	
+GESW_CPU2_MDIO      	39    	0 1 11100100 00011011
+GESW_CPU3_MDC       	0     	
+GESW_CPU3_MDIO      	40    	0 1 00010100 11101011
+GESW_DEVICE_TYPE_0  	41    	0 1 10010100 01101011
+GESW_DEVICE_TYPE_1  	42    	0 1 01010100 10101011
+GESW_DEVICE_TYPE_2  	43    	0 1 11010100 00101011
+GESW_DEVICE_TYPE_3  	44    	0 1 00110100 11001011
+GESW_DEVICE_TYPE_4  	45    	0 1 10110100 01001011
+GESW_DEVICE_TYPE_5  	46    	0 1 01110100 10001011
+GESW_DEVICE_TYPE_6  	47    	0 1 11110100 00001011
+GESW_DEVICE_TYPE_7  	48    	0 1 00001100 11110011
+GESW_DEV_ID_2       	49    	0 1 10001100 01110011
+GESW_DEV_ID_3       	50    	0 1 01001100 10110011
+GESW_DEV_INIT_DONE  	51    	0 1 11001100 00110011
+GESW_EN_DEV         	52    	0 1 00101100 11010011
+GESW_F_EXP0PHY_C0_RX_N	0     	
+GESW_F_EXP0PHY_C0_RX_P	0     	
+GESW_F_EXP0PHY_C1_RX_N	0     	
+GESW_F_EXP0PHY_C1_RX_P	0     	
+GESW_F_EXP0PHY_C2_RX_N	0     	
+GESW_F_EXP0PHY_C2_RX_P	0     	
+GESW_F_EXP0PHY_C3_RX_N	0     	
+GESW_F_EXP0PHY_C3_RX_P	0     	
+GESW_F_EXP1PHY_C0_RX_N	0     	
+GESW_F_EXP1PHY_C0_RX_P	0     	
+GESW_F_EXP1PHY_C1_RX_N	0     	
+GESW_F_EXP1PHY_C1_RX_P	0     	
+GESW_F_EXP1PHY_C2_RX_N	0     	
+GESW_F_EXP1PHY_C2_RX_P	0     	
+GESW_F_EXP1PHY_C3_RX_N	0     	
+GESW_F_EXP1PHY_C3_RX_P	0     	
+GESW_I2C_SCL0       	0     	
+GESW_I2C_SCL1       	0     	
+GESW_I2C_SCL2       	0     	
+GESW_I2C_SCL3       	0     	
+GESW_I2C_SDA0       	0     	
+GESW_I2C_SDA1       	0     	
+GESW_I2C_SDA2       	0     	
+GESW_I2C_SDA3       	0     	
+GESW_INT0_L         	53    	0 1 10101100 01010011
+GESW_INT1_L         	54    	0 1 01101100 10010011
+GESW_INT2_L         	55    	0 1 11101100 00010011
+GESW_INT3_L         	0     	
+GESW_PLL0_CONFIG_0  	56    	0 1 00011100 11100011
+GESW_PLL0_CONFIG_1  	57    	0 1 10011100 01100011
+GESW_PLL0_CONFIG_2  	58    	0 1 01011100 10100011
+GESW_PLL1_CONFIG_0  	59    	0 1 11011100 00100011
+GESW_PLL1_CONFIG_1  	60    	0 1 00111100 11000011
+GESW_PLL2_CONFIG_0  	61    	0 1 10111100 01000011
+GESW_PLL2_CONFIG_1  	62    	0 1 01111100 10000011
+GESW_PORT_SERDES_REF_CLK_SEL	63    	0 1 11111100 00000011
+GESW_RESET_L        	64    	0 1 00000010 11111101
+GESW_RES_CFG_0      	65    	0 1 10000010 01111101
+GESW_RES_CFG_10     	66    	0 1 01000010 10111101
+GESW_RES_CFG_11     	67    	0 1 11000010 00111101
+GESW_RES_CFG_12     	68    	0 1 00100010 11011101
+GESW_RES_CFG_13     	69    	0 1 10100010 01011101
+GESW_RES_CFG_1      	70    	0 1 01100010 10011101
+GESW_RES_CFG_2      	71    	0 1 11100010 00011101
+GESW_RES_CFG_3      	72    	0 1 00010010 11101101
+GESW_RES_CFG_4      	73    	0 1 10010010 01101101
+GESW_RES_CFG_5      	74    	0 1 01010010 10101101
+GESW_RES_CFG_6      	75    	0 1 11010010 00101101
+GESW_RES_CFG_7      	76    	0 1 00110010 11001101
+GESW_RES_CFG_8      	77    	0 1 10110010 01001101
+GESW_RES_CFG_9      	78    	0 1 01110010 10001101
+GESW_RSVD_PU_VDD_IO 	79    	0 1 11110010 00001101
+GESW_SKIP_INIT_L    	80    	0 1 00001010 11110101
+GESW_TWSI_ADDR_LOW_2	81    	0 1 10001010 01110101
+GESW_TWSI_ADDR_LOW_3	82    	0 1 01001010 10110101
+GESW_TWSI_ADDR_LOW_4	83    	0 1 11001010 00110101
+GESW_T_EXP0PHY_C0_TX_N	0     	
+GESW_T_EXP0PHY_C0_TX_P	0     	
+GESW_T_EXP0PHY_C1_TX_N	0     	
+GESW_T_EXP0PHY_C1_TX_P	0     	
+GESW_T_EXP0PHY_C2_TX_N	0     	
+GESW_T_EXP0PHY_C2_TX_P	0     	
+GESW_T_EXP0PHY_C3_TX_N	0     	
+GESW_T_EXP0PHY_C3_TX_P	0     	
+GESW_T_EXP1PHY_C0_TX_N	0     	
+GESW_T_EXP1PHY_C0_TX_P	0     	
+GESW_T_EXP1PHY_C1_TX_N	0     	
+GESW_T_EXP1PHY_C1_TX_P	0     	
+GESW_T_EXP1PHY_C2_TX_N	0     	
+GESW_T_EXP1PHY_C2_TX_P	0     	
+GESW_T_EXP1PHY_C3_TX_N	0     	
+GESW_T_EXP1PHY_C3_TX_P	0     	
+GND_5               	0     	
+HW_REV0             	0     	
+HW_REV1             	0     	
+HW_REV2             	0     	
+HW_REV3             	0     	
+I2C_KEN_ALERT_L     	0     	
+I2C_KEN_SCL         	0     	
+I2C_KEN_SDA         	0     	
+I2C_M0_INT_L        	0     	
+I2C_M0_SCL          	0     	
+I2C_M0_SDA          	0     	
+I2C_M2_INT_L        	0     	
+I2C_M2_SCL          	0     	
+I2C_M2_SDA          	0     	
+I2C_M3_SCL          	0     	
+I2C_M3_SDA          	0     	
+I2C_M4_INT_L        	0     	
+I2C_M4_SCL          	0     	
+I2C_M4_SDA          	0     	
+I2C_M5_SCL          	0     	
+I2C_M5_SDA          	0     	
+I2C_RST_BUF0_L      	0     	
+I2C_RST_BUF2_L      	0     	
+I2C_RST_BUF3_L      	0     	
+I2C_RST_BUF4_L      	0     	
+I2C_RST_BUF5_L      	0     	
+I2C_TEMP_INT_L      	0     	
+KENSHO_INT_L0       	0     	
+KENSHO_INT_L1       	0     	
+KENSHO_INT_L2       	0     	
+KEN_F_PLX_PCIE0_RX_N	0     	
+KEN_F_PLX_PCIE0_RX_P	0     	
+KEN_F_PLX_PCIE1_RX_N	0     	
+KEN_F_PLX_PCIE1_RX_P	0     	
+KEN_F_PLX_PCIE2_RX_N	0     	
+KEN_F_PLX_PCIE2_RX_P	0     	
+KEN_F_PLX_PCIE3_RX_N	0     	
+KEN_F_PLX_PCIE3_RX_P	0     	
+KEN_RST_IN_L        	0     	
+KEN_T_PLX_PCIE0_TX_N	0     	
+KEN_T_PLX_PCIE0_TX_P	0     	
+KEN_T_PLX_PCIE1_TX_N	0     	
+KEN_T_PLX_PCIE1_TX_P	0     	
+KEN_T_PLX_PCIE2_TX_N	0     	
+KEN_T_PLX_PCIE2_TX_P	0     	
+KEN_T_PLX_PCIE3_TX_N	0     	
+KEN_T_PLX_PCIE3_TX_P	0     	
+LED_ALARM_CRIT      	0     	
+LED_ALARM_CRIT_DET  	0     	
+LED_ALARM_MAJ       	0     	
+LED_ALARM_MAJ_DET   	0     	
+LED_ALARM_MIN       	0     	
+LED_ALARM_MIN_DET   	0     	
+LED_ATTN_BLU        	0     	
+LED_BL              	0     	
+LED_CE_L            	0     	
+LED_CLK             	0     	
+LED_DATA_I          	0     	
+LED_DATA_O          	0     	
+LED_MGMT0_ACT_DET   	0     	
+LED_MGMT0_LINK_DET  	0     	
+LED_RESET_L         	0     	
+LED_RS              	0     	
+LED_SSD0_GRN        	0     	
+LED_SSD0_GRN_DET    	0     	
+LED_SSD1_GRN        	0     	
+LED_SSD1_GRN_DET    	0     	
+LED_STATUS_GRN      	0     	
+LED_STATUS_GRN_DET  	0     	
+LED_STATUS_YEL      	0     	
+LED_STATUS_YEL_DET  	0     	
+LSPSEL0             	0     	
+LSPSEL1             	0     	
+LSPSEL2             	0     	
+LSPSEL3             	0     	
+LSPSEL4             	0     	
+LSPSEL5             	0     	
+LSPSEL6             	0     	
+MAC_AUX_PWR         	0     	
+MAC_EEPROM_CE_L     	0     	
+MAC_EEPROM_DI       	0     	
+MAC_EEPROM_DO       	0     	
+MAC_EEPROM_SCK      	0     	
+MAC_LAN0_DIS_L      	0     	
+MAC_LAN1_DIS_L      	0     	
+MAC_MAIN_PWRGD      	0     	
+MAC_NCSI_CLK_IN     	0     	
+MAC_NCSI_CRS_DV     	0     	
+MAC_NCSI_RXD_0      	0     	
+MAC_NCSI_RXD_1      	0     	
+MAC_PCIE_RST_L      	0     	
+MFG_EEP_WP0         	0     	
+MFG_EEP_WP1         	0     	
+MGMTPHY_MDC         	0     	
+MGMTPHY_RESET_L     	0     	
+MODPRES_L           	0     	
+MP_MTP_1_L          	0     	
+MP_MTP_MODE_L       	0     	
+MP_TEN_L            	0     	
+MSMI0_MDIO          	0     	
+M_PWR_EN            	0     	
+M_PWR_OFF           	0     	
+M_PWR_OK            	0     	
+M_RST_OUT_L         	0     	
+PD_EXPPHY_OPINLVL   	0     	
+PD_EXPPHY_OPOUTLVL  	0     	
+PD_MAC_E17          	0     	
+PD_MAC_OSC_SEL      	0     	
+PEER_RP_PRES_L      	0     	
+PEX_FATAL_ERR_L     	0     	
+PEX_HP_MRL          	0     	
+PEX_HP_PRSNT        	0     	
+PEX_I2C_SCL0        	0     	
+PEX_I2C_SDA0        	0     	
+PEX_INTA_L          	0     	
+PEX_NT_RESET_L      	0     	
+PEX_PORT0_GOOD_L    	0     	
+PEX_PORT10_GOOD_L   	0     	
+PEX_PORT11_GOOD_L   	0     	
+PEX_PORT12_GOOD_L   	0     	
+PEX_PORT13_GOOD_L   	0     	
+PEX_PORT14_GOOD_L   	0     	
+PEX_PORT15_GOOD_L   	0     	
+PEX_PORT16_GOOD_L   	0     	
+PEX_PORT17_GOOD_L   	0     	
+PEX_PORT18_GOOD_L   	0     	
+PEX_PORT19_GOOD_L   	0     	
+PEX_PORT20_GOOD_L   	0     	
+PEX_PORT4_GOOD_L    	0     	
+PEX_PORT5_GOOD_L    	0     	
+PEX_PORT6_GOOD_L    	0     	
+PEX_PORT7_GOOD_L    	0     	
+PEX_PORT8_GOOD_L    	0     	
+PEX_PORT9_GOOD_L    	0     	
+PEX_PRESET_L        	0     	
+PEX_SHPC_INT_L      	0     	
+PEX_T_CCC_SCL       	0     	
+PEX_T_CCC_SDA       	0     	
+PLX_F_GESW_PCIE0_RX_N	0     	
+PLX_F_GESW_PCIE0_RX_P	0     	
+PLX_F_GESW_PCIE1_RX_N	0     	
+PLX_F_GESW_PCIE1_RX_P	0     	
+PLX_F_GESW_PCIE2_RX_N	0     	
+PLX_F_GESW_PCIE2_RX_P	0     	
+PLX_T_GESW_PCIE0_TX_N	0     	
+PLX_T_GESW_PCIE0_TX_P	0     	
+PLX_T_GESW_PCIE1_TX_N	0     	
+PLX_T_GESW_PCIE1_TX_P	0     	
+PLX_T_GESW_PCIE2_TX_N	0     	
+PLX_T_GESW_PCIE2_TX_P	0     	
+PON_INTERP_BYPASS   	0     	
+PU_MAC_AA19         	0     	
+PU_MAC_AB19         	0     	
+PU_MAC_AC19         	0     	
+PU_MAC_OSC_FREQ_SEL 	0     	
+PU_MAC_SCL0         	0     	
+PU_MAC_SCL1         	0     	
+PU_MAC_SDA0         	0     	
+PU_MAC_SDA1         	0     	
+PU_MDIO0_82599      	0     	
+PU_MDIO1_82599      	0     	
+PWR0_ALRT_L         	0     	
+PWR0_RST            	0     	
+PWR1_ALRT_L         	0     	
+PWR1_RST            	0     	
+RCVR_CLK_IN0        	84    	0 1 00101010 11010101
+RCVR_CLK_IN1        	85    	0 1 10101010 01010101
+RCVR_CLK_IN2        	86    	0 1 01101010 10010101
+RP0_RESET           	0     	
+RP1_RESET           	0     	
+RP_F_CR_UART_RX     	0     	
+RP_F_PRP_ALRT_L     	0     	
+RP_F_PRP_MASTER     	0     	
+RP_F_PRP_RDY        	0     	
+RP_F_PRP_RST        	0     	
+RP_F_PRP_SCL        	0     	
+RP_F_PRP_SDA        	0     	
+RP_PRES_L           	0     	
+RP_T_CR_UART_TX     	0     	
+RP_T_PRP_ALRT_L     	0     	
+RP_T_PRP_MASTER     	0     	
+RP_T_PRP_RDY        	0     	
+RP_T_PRP_RST        	0     	
+SB_MODE             	0     	
+SCANSTA_TRANS       	0     	
+SC_F_FC0_PCIE_RX_N  	0     	
+SC_F_FC0_PCIE_RX_P  	0     	
+SC_F_FC10_PCIE_RX_N 	0     	
+SC_F_FC10_PCIE_RX_P 	0     	
+SC_F_FC11_PCIE_RX_N 	0     	
+SC_F_FC11_PCIE_RX_P 	0     	
+SC_F_FC1_PCIE_RX_N  	0     	
+SC_F_FC1_PCIE_RX_P  	0     	
+SC_F_FC2_PCIE_RX_N  	0     	
+SC_F_FC2_PCIE_RX_P  	0     	
+SC_F_FC3_PCIE_RX_N  	0     	
+SC_F_FC3_PCIE_RX_P  	0     	
+SC_F_FC4_PCIE_RX_N  	0     	
+SC_F_FC4_PCIE_RX_P  	0     	
+SC_F_FC5_PCIE_RX_N  	0     	
+SC_F_FC5_PCIE_RX_P  	0     	
+SC_F_FC6_PCIE_RX_N  	0     	
+SC_F_FC6_PCIE_RX_P  	0     	
+SC_F_FC7_PCIE_RX_N  	0     	
+SC_F_FC7_PCIE_RX_P  	0     	
+SC_F_FC8_PCIE_RX_N  	0     	
+SC_F_FC8_PCIE_RX_P  	0     	
+SC_F_FC9_PCIE_RX_N  	0     	
+SC_F_FC9_PCIE_RX_P  	0     	
+SC_F_SW0_PCIE_RX_N  	0     	
+SC_F_SW0_PCIE_RX_P  	0     	
+SC_F_SW1_PCIE_RX_N  	0     	
+SC_F_SW1_PCIE_RX_P  	0     	
+SC_T_FC0_PCIE_TX_N  	0     	
+SC_T_FC0_PCIE_TX_P  	0     	
+SC_T_FC10_PCIE_TX_N 	0     	
+SC_T_FC10_PCIE_TX_P 	0     	
+SC_T_FC11_PCIE_TX_N 	0     	
+SC_T_FC11_PCIE_TX_P 	0     	
+SC_T_FC1_PCIE_TX_N  	0     	
+SC_T_FC1_PCIE_TX_P  	0     	
+SC_T_FC2_PCIE_TX_N  	0     	
+SC_T_FC2_PCIE_TX_P  	0     	
+SC_T_FC3_PCIE_TX_N  	0     	
+SC_T_FC3_PCIE_TX_P  	0     	
+SC_T_FC4_PCIE_TX_N  	0     	
+SC_T_FC4_PCIE_TX_P  	0     	
+SC_T_FC5_PCIE_TX_N  	0     	
+SC_T_FC5_PCIE_TX_P  	0     	
+SC_T_FC6_PCIE_TX_N  	0     	
+SC_T_FC6_PCIE_TX_P  	0     	
+SC_T_FC7_PCIE_TX_N  	0     	
+SC_T_FC7_PCIE_TX_P  	0     	
+SC_T_FC8_PCIE_TX_N  	0     	
+SC_T_FC8_PCIE_TX_P  	0     	
+SC_T_FC9_PCIE_TX_N  	0     	
+SC_T_FC9_PCIE_TX_P  	0     	
+SC_T_SW0_PCIE_TX_N  	0     	
+SC_T_SW0_PCIE_TX_P  	0     	
+SC_T_SW1_PCIE_TX_N  	0     	
+SC_T_SW1_PCIE_TX_P  	0     	
+SLOT_ID0            	0     	
+SLOT_ID1            	0     	
+SLOT_ID2            	0     	
+SLOT_ID3            	0     	
+SLOT_ID4            	0     	
+SLOT_ID5            	0     	
+SLOT_ID6            	0     	
+SLOT_ID_PAR         	0     	
+SMB_ALERT_L         	0     	
+SMB_RST_L           	0     	
+SMB_SCL             	0     	
+SMB_SDA             	0     	
+SR_CCC_CCLK         	0     	
+SSD1_ACT_L          	0     	
+STRAP_NT_UPSTRM_PORTSEL0	0     	
+STRAP_NT_UPSTRM_PORTSEL1	0     	
+STRAP_NT_UPSTRM_PORTSEL2	0     	
+STRAP_NT_UPSTRM_PORTSEL3	0     	
+STRAP_NT_UPSTRM_PORTSEL4	0     	
+STRAP_RSVD17        	0     	
+STRAP_STN0_PORTCFG0 	0     	
+STRAP_STN1_PORTCFG1 	0     	
+STRAP_STN2_PORTCFG1 	0     	
+STRAP_STN3_PORTCFG1 	0     	
+STRAP_STN4_PORTCFG1 	0     	
+STRAP_STN5_PORTCFG1 	0     	
+STRAP_TESTMODE0     	0     	
+STRAP_TESTMODE1     	0     	
+STRAP_TESTMODE2     	0     	
+STRAP_TESTMODE3     	0     	
+STRAP_TESTMODE4     	0     	
+STRAP_UPSTRM_PORTSEL0	0     	
+STRAP_UPSTRM_PORTSEL1	0     	
+STRAP_UPSTRM_PORTSEL2	0     	
+STRAP_UPSTRM_PORTSEL3	0     	
+STRAP_UPSTRM_PORTSEL4	0     	
+STRAP_VS_MODE0      	0     	
+STRAP_VS_MODE1      	0     	
+STRAP_VS_MODE2      	0     	
+SW0_RST             	0     	
+SW1_ALRT_L          	0     	
+SW1_RST             	0     	
+SW_CCC_RST          	0     	
+SW_PRES_IN_L        	0     	
+SW_PRES_OUT_L       	0     	
+SW_SC_ALRT_OUT_L0   	0     	
+TP_EXPPHY_CONV_1    	87    	0 1 11101010 00010101
+TP_EXPPHY_CONV_2    	88    	0 1 00011010 11100101
+TP_EXPPHY_PCMULK_1  	89    	0 1 10011010 01100101
+TP_EXPPHY_PCMULK_2  	90    	0 1 01011010 10100101
+TP_EXPPHY_PLOSB_1   	91    	0 1 11011010 00100101
+TP_EXPPHY_PLOSB_2   	92    	0 1 00111010 11000101
+UART0_CD_L          	0     	
+UART0_CTS           	0     	
+UART0_DSR           	0     	
+UART0_DTR           	0     	
+UART0_RTS           	0     	
+UART0_RXD           	0     	
+UART0_TXD           	0     	
+UART1_CD_L          	0     	
+UART1_CTS           	0     	
+UART1_DSR           	0     	
+UART1_DTR           	0     	
+UART1_RTS           	0     	
+UART1_RXD           	0     	
+UART1_TXD           	0     	
+UART_SELECT         	0     	
+USB2_PWR_EN_L       	0     	
+USB2_PWR_FLG_L      	0     	
+VP3P3_STDBY         	0     	
+VS0_PERST_L         	0     	
+VS1_PERST_L         	0     	
+VS2_PERST_L         	0     	
+VS3_PERST_L         	0     	
+VS4_PERST_L         	0     	
+VS5_PERST_L         	0     	
+VS6_PERST_L         	0     	
+VS7_PERST_L         	0     	
+_STRAP_FAST_BRINGUP 	0     	
+_STRAP_G1_COMPATIBLE	0     	
+_STRAP_I2C_CFG_EN   	0     	
+_STRAP_NT_ENABLE    	0     	
+_STRAP_NT_P2P_EN    	0     	
+_STRAP_PROBE_MODE   	0     	
+_STRAP_SERDES_MODE_EN	0     	
+_STRAP_SMBUS_EN     	0     	
+U67_K8              	0     	
+U67_H10             	0     	
+U9_D18              	0     	
+U9_C18              	0     	
+U9_C17              	0     	
+U9_C16              	0     	
+U9_D17              	0     	
+U9_B17              	0     	
+U9_D15              	0     	
+U9_D14              	0     	
+U9_C15              	0     	
+U9_C13              	0     	
+U9_D13              	0     	
+U9_A17              	0     	
+U9_C12              	0     	
+U9_C11              	0     	
+U9_E15              	0     	
+U9_D12              	0     	
+U9_D16              	0     	
+U9_D11              	0     	
+U9_A12              	0     	
+U9_C14              	0     	
+U9_D9               	0     	
+U9_D10              	0     	
+U9_A11              	0     	
+U9_B11              	0     	
+U9_E13              	0     	
+U9_B12              	0     	
+U9_D8               	0     	
+U9_C10              	0     	
+U9_B9               	0     	
+U9_B10              	0     	
+U9_E11              	0     	
+U9_C9               	0     	
+U9_B8               	0     	
+U9_C7               	0     	
+U9_C8               	0     	
+U9_E9               	0     	
+U9_A7               	0     	
+U9_B6               	0     	
+U9_A8               	0     	
+U9_B7               	0     	
+U9_D7               	0     	
+U9_AA7              	0     	
+U9_AA8              	0     	
+U9_AC8              	0     	
+U9_AC7              	0     	
+U9_AD7              	0     	
+U9_AB8              	0     	
+U9_AB7              	0     	
+U9_AD8              	0     	
+U9_AA10             	0     	
+U9_AB10             	0     	
+U9_Y11              	0     	
+U9_AB13             	0     	
+U9_AD13             	0     	
+U9_AD11             	0     	
+U9_AC12             	0     	
+U9_Y13              	0     	
+U9_AA13             	0     	
+U9_AB14             	0     	
+U9_AC13             	0     	
+U9_AD14             	0     	
+U9_Y15              	0     	
+U9_AA14             	0     	
+U9_AB15             	0     	
+U9_AC14             	0     	
+U9_AC16             	0     	
+U9_AC15             	0     	
+U9_AA16             	0     	
+U9_AA15             	0     	
+U9_AB17             	0     	
+U9_AB16             	0     	
+U9_AB18             	0     	
+U9_AA18             	0     	
+U9_AA17             	0     	
+U235_C3             	0     	
+U235_B3             	0     	
+U235_B2             	0     	
+U235_J10            	0     	
+U235_J9             	0     	
+U235_K12            	0     	
+U235_H11            	0     	
+U235_J13            	0     	
+U235_H13            	0     	
+U235_G13            	0     	
+U235_K13            	0     	
+U235_B6             	1     	0 1 10000000 01111111
+U235_A6             	510   	1 0 01111111 10000000
+U235_E6             	0     	
+U235_D6             	0     	
+U235_E10            	0     	
+U235_D10            	0     	
+U235_B10            	2     	0 1 01000000 10111111
+U235_A10            	509   	1 0 10111111 01000000
+U235_D30            	0     	
+U235_C33            	0     	
+U235_C30            	0     	
+U235_C31            	0     	
+U235_C32            	0     	
+U235_B32            	0     	
+U235_H27            	0     	
+U235_G28            	0     	
+U235_B33            	0     	
+U235_D31            	0     	
+U235_D32            	0     	
+U235_D33            	0     	
+U235_E32            	0     	
+U235_P28            	0     	
+U235_P27            	0     	
+U235_M26            	0     	
+U235_P26            	0     	
+U235_N28            	0     	
+U235_M27            	0     	
+U235_R28            	0     	
+U235_T27            	0     	
+U235_A30            	0     	
+U235_T26            	0     	
+U235_T25            	0     	
+U235_N26            	0     	
+U235_AL34           	0     	
+U235_AK32           	0     	
+U235_AH23           	0     	
+U235_AB26           	0     	
+U235_AD27           	0     	
+U235_AD26           	0     	
+U235_AB27           	0     	
+U235_AD24           	0     	
+U235_AC25           	0     	
+U235_AM33           	0     	
+U235_AE26           	0     	
+U235_AH24           	0     	
+U235_AC27           	0     	
+U235_AL31           	0     	
+U235_AD25           	0     	
+U235_AL30           	0     	
+U235_AH28           	0     	
+U235_AE23           	0     	
+U235_AM30           	0     	
+U235_AP32           	0     	
+U235_AG23           	0     	
+U235_AM31           	0     	
+U235_AN31           	0     	
+U235_AG22           	0     	
+U235_AG20           	0     	
+U235_AG21           	0     	
+U235_AG19           	0     	
+U235_AN14           	3     	0 1 11000000 00111111
+U235_AP14           	508   	1 0 00111111 11000000
+U235_AK14           	0     	
+U235_AL14           	0     	
+U235_AK18           	0     	
+U235_AL18           	0     	
+U235_AN18           	4     	0 1 00100000 11011111
+U235_AP18           	507   	1 0 11011111 00100000
+U235_AK19           	0     	
+U235_AL19           	0     	
+U235_AN19           	5     	0 1 10100000 01011111
+U235_AP19           	506   	1 0 01011111 10100000
+U235_AK20           	0     	
+U235_AL20           	0     	
+U235_AN20           	6     	0 1 01100000 10011111
+U235_AP20           	505   	1 0 10011111 01100000
+U235_AK21           	0     	
+U235_AL21           	0     	
+U235_AN21           	7     	0 1 11100000 00011111
+U235_AP21           	504   	1 0 00011111 11100000
+U235_AK10           	0     	
+U235_AL10           	0     	
+U235_AN10           	8     	0 1 00010000 11101111
+U235_AP10           	503   	1 0 11101111 00010000
+U235_AN3            	0     	
+U235_AN2            	0     	
+U235_AM4            	0     	
+U235_AH8            	0     	
+U235_AG11           	0     	
+U235_AL3            	0     	
+U235_AM3            	0     	
+U235_AG8            	0     	
+U235_AH7            	0     	
+U235_AG10           	0     	
+U235_AK3            	0     	
+U235_AF9            	0     	
+U235_AL2            	0     	
+U235_AA7            	0     	
+U235_AA8            	0     	
+U235_AB7            	0     	
+U235_AC9            	0     	
+U235_Y7             	0     	
+U235_W8             	0     	
+U235_W9             	0     	
+U235_W10            	0     	
+U235_AB9            	0     	
+U235_AA10           	0     	
+U235_AB8            	0     	
+U235_J5             	0     	
+U235_J4             	0     	
+U235_J2             	9     	0 1 10010000 01101111
+U235_J1             	502   	1 0 01101111 10010000
+U235_E2             	0     	
+U235_P9             	0     	
+U235_L12            	0     	
+U235_M7             	0     	
+U235_M10            	0     	
+U235_C5             	0     	
+U227_AG1            	93    	0 1 10111010 01000101
+U227_AG2            	94    	0 1 01111010 10000101
+U227_AF1            	95    	0 1 11111010 00000101
+U227_AH4            	96    	0 1 00000110 11111001
+U227_AH3            	97    	0 1 10000110 01111001
+U227_AJ4            	98    	0 1 01000110 10111001
+U227_AJ3            	99    	0 1 11000110 00111001
+U227_AG6            	100   	0 1 00100110 11011001
+U227_AG5            	101   	0 1 10100110 01011001
+U227_AG4            	102   	0 1 01100110 10011001
+U227_AG3            	103   	0 1 11100110 00011001
+U227_AH5            	104   	0 1 00010110 11101001
+U227_AJ32           	105   	0 1 10010110 01101001
+U227_AF35           	106   	0 1 01010110 10101001
+U227_AF34           	107   	0 1 11010110 00101001
+U227_AE32           	108   	0 1 00110110 11001001
+U227_AF32           	109   	0 1 10110110 01001001
+U227_AE34           	110   	0 1 01110110 10001001
+U227_AF33           	111   	0 1 11110110 00001001
+U227_AE33           	112   	0 1 00001110 11110001
+U227_AE35           	113   	0 1 10001110 01110001
+U227_AC35           	114   	0 1 01001110 10110001
+U227_AC33           	115   	0 1 11001110 00110001
+U227_AC34           	116   	0 1 00101110 11010001
+U227_P39            	117   	0 1 10101110 01010001
+U227_N38            	118   	0 1 01101110 10010001
+U227_N39            	119   	0 1 11101110 00010001
+U227_L37            	120   	0 1 00011110 11100001
+U227_N34            	121   	0 1 10011110 01100001
+U227_N37            	122   	0 1 01011110 10100001
+U227_M36            	123   	0 1 11011110 00100001
+U227_M37            	124   	0 1 00111110 11000001
+U227_N35            	125   	0 1 10111110 01000001
+U227_N36            	126   	0 1 01111110 10000001
+U227_M35            	127   	0 1 11111110 00000001
+U227_M6             	128   	0 1 00000001 11111110
+U227_M3             	129   	0 1 10000001 01111110
+U227_N6             	130   	0 1 01000001 10111110
+U227_N4             	131   	0 1 11000001 00111110
+U227_N5             	132   	0 1 00100001 11011110
+U227_N3             	133   	0 1 10100001 01011110
+U227_N2             	134   	0 1 01100001 10011110
+U227_P1             	135   	0 1 11100001 00011110
+U227_N1             	136   	0 1 00010001 11101110
+U227_T4             	137   	0 1 10010001 01101110
+U227_T5             	138   	0 1 01010001 10101110
+U227_U5             	139   	0 1 11010001 00101110
+U227_T2             	140   	0 1 00110001 11001110
+U227_U4             	141   	0 1 10110001 01001110
+U227_U3             	142   	0 1 01110001 10001110
+U306_B21            	0     	
+U306_E20            	0     	
+U306_J16            	0     	
+U306_H15            	0     	
+U306_J15            	0     	
+U306_J12            	0     	
+U306_K12            	0     	
+U306_B14            	0     	
+U306_A12            	0     	
+U306_G11            	0     	
+U306_J11            	0     	
+U306_A5             	0     	
+U306_B5             	0     	
+U306_E5             	0     	
+U306_E6             	0     	
+U306_A2             	0     	
+U306_C3             	0     	
+U306_G3             	0     	
+U306_G4             	0     	
+U306_L10            	0     	
+U306_L9             	0     	
+U306_G1             	0     	
+U306_G2             	0     	
+U306_N1             	0     	
+U306_P1             	0     	
+U306_P3             	0     	
+U306_R1             	0     	
+U306_R2             	0     	
+U306_W3             	0     	
+U306_V4             	0     	
+U306_AA6            	0     	
+U306_AA7            	0     	
+U306_AB11           	0     	
+U306_AB9            	0     	
+U306_AC14           	0     	
+U306_AA15           	0     	
+U306_AF22           	0     	
+U306_AA22           	0     	
+U306_Y21            	0     	
+U306_AC24           	0     	
+U306_T19            	0     	
+U306_U22            	0     	
+U306_U21            	0     	
+U306_AE26           	0     	
+U306_AE25           	0     	
+U306_AC26           	0     	
+U306_AC25           	0     	
+U306_AB26           	0     	
+U306_AD26           	0     	
+U306_T26            	0     	
+U306_T24            	0     	
+U306_U25            	0     	
+U306_V23            	0     	
+U306_U24            	0     	
+U306_T23            	0     	
+U306_T22            	0     	
+U306_R24            	0     	
+U306_P24            	0     	
+U306_N24            	0     	
+U306_M18            	0     	
+U306_E23            	0     	
+U306_D23            	0     	
+		Pattern for pullups/pulldowns
+Config J   ---------------------------------------------
+		Binary count pattern 1
+		Binary count pattern 1
+End of Configs   ---------------------------------------------
